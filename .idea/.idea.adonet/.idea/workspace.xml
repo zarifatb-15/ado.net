@@ -9,8 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebb581d9-ed19-43ae-92d3-9f0558b8d875" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adonet.sln" beforeDir="false" afterPath="$PROJECT_DIR$/adonet.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.adonet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.adonet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdoNetExample/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,7 @@
       <updated>1767725085144</updated>
       <workItem from="1767725086482" duration="3000" />
       <workItem from="1767726374566" duration="162000" />
-      <workItem from="1767727720161" duration="888000" />
+      <workItem from="1767727720161" duration="3730000" />
     </task>
     <servers />
   </component>
