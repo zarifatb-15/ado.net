@@ -10,7 +10,28 @@
   <component name="ChangeListManager">
     <list default="true" id="ebb581d9-ed19-43ae-92d3-9f0558b8d875" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.adonet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.adonet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdoNetExample/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdoNetExample/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/AdoNetExample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/AdoNetExample.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/AdoNetExample.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/AdoNetExample.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/Debug/net10.0/AdoNetExample.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/Debug/net10.0/AdoNetExample.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/Debug/net10.0/AdoNetExample.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/Debug/net10.0/AdoNetExample.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/Debug/net10.0/AdoNetExample.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdoNetExample/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adonet.sln" beforeDir="false" afterPath="$PROJECT_DIR$/adonet.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/adonet.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/adonet.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net10.0/adonet.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net10.0/adonet.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +56,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.adonet.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.adonet.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.adonet">
     <configuration name="AdoNetExample" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -107,6 +128,7 @@
       <workItem from="1767725086482" duration="3000" />
       <workItem from="1767726374566" duration="162000" />
       <workItem from="1767727720161" duration="3730000" />
+      <workItem from="1767896192124" duration="199000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,7 @@ namespace adonet;
 
  class Program
 {
-    static void Main(string[] args)
+   static void Main(string[] args)
     {
         // var serviceCollection = new ServiceCollection();
         // serviceCollection.AddScoped<IStudentRepository, StudentRepository>();
@@ -15,5 +15,5 @@ namespace adonet;
         // var studentService = serviceProvider.GetService<StudentService>();
         // studentService?.CreatStudent();
         
-    }
+   }
 }
